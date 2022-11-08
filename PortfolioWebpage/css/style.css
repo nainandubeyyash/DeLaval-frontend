@@ -121,19 +121,6 @@ footer{
 	justify-content: center;
 	padding: 10px 0px 10px 0px;
 }
-footer p:nth-child(1){
-	font-size: 30px;
-	color: white;
-	margin-bottom: 10px;
-	font-weight: bold;
-}
-footer p:nth-child(2){
-	color: white;
-	font-size: 17px;
-	width: 500px;
-	text-align: center;
-	line-height: 26px;
-}
 
 .foot{
 	float: right;
